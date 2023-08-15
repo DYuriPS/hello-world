@@ -1,2 +1,2 @@
 # hello-world
-Ex.01
+Este repositório se trata de uma boa introdução às práticas básicas para utilização do sistema do GitHub.
